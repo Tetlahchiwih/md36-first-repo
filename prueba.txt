@@ -1,0 +1,4 @@
+Querido diario, he descubierto nuevos comandos de git. 
+
+Uno de ellos es git init que nos ayuda a iniciar un repositorio en git.
+El otro es git status que nos ayuda a saber sobre el status del repositorio.
